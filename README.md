@@ -10,12 +10,11 @@ Each document pairs a **prompt** with its **AI-generated response**, then names 
 prompt-engineering-handbook/
 ├── README.md
 ├── LICENSE
-├── .gitignore
 └── docs/
-    ├── Prompt_Engineering.docx            # Foundations: poor vs. better prompts, core structure
-    ├── Advanced_Prompt_Engineering.docx   # Constraints, output formatting, advanced techniques
-    ├── Business_Prompt_Engineering.docx   # 7-step business prompting process & framework
-    └── Citations.docx                     # AI-driven research, source verification & citations
+    ├── Prompt_Engineering.docx            
+    ├── Advanced_Prompt_Engineering.docx   
+    ├── Business_Prompt_Engineering.docx   
+    └── Citations.docx                     
 ```
 
 ## 📘 Contents
@@ -38,7 +37,7 @@ This repository serves as:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/prompt-engineering-handbook.git
+    https://github.com/Aditya2307-CODER/prompt-engineering-handbook.git
    ```
 2. Open any file in `docs/` to review the prompts, sample AI responses, and the concept behind each one.
 3. Adapt the prompt templates to your own use case — swap out the business context (industry, role, constraints) while keeping the underlying structure intact.
